@@ -1,0 +1,169 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 8973 >>
+stream
+BT 0.09 0.10 0.12 rg /F2 24 Tf 46.00 797.89 Td (HARISH V) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10.5 Tf 46.00 780.89 Td (Full-stack developer \267 B.Tech CSE '27, SRMIST Trichy) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 46.00 765.89 Td (harishvofficialwork@gmail.com) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9.5 Tf 176.52 765.89 Td (  \267  ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 189.73 765.89 Td (github.com/ZeonArc) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9.5 Tf 274.73 765.89 Td (  \267  ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 287.94 765.89 Td (linkedin.com/in/harishvdev) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9.5 Tf 399.33 765.89 Td (  \267  ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 412.54 765.89 Td (Trichy, Tamil Nadu, India) Tj ET
+0.55 0.55 0.55 RG 0.9 w 46 755.89 m 549.28 755.89 l S
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 46.00 741.89 Td (Full-stack developer building job queues, real-time apps and LLM pipelines with TypeScript, Node.js, Python and) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 46.00 730.39 Td (PostgreSQL. Looking for SDE and full-stack internships and 2027 new-grad roles.) Tj ET
+BT 0.36 0.38 0.42 rg /F2 9 Tf 46.00 702.89 Td (EDUCATION) Tj ET
+0.75 0.75 0.75 RG 0.6 w 46 697.89 m 549.28 697.89 l S
+BT 0.09 0.10 0.12 rg /F2 10 Tf 46.00 684.89 Td (B.Tech, Computer Science and Engineering) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10 Tf 493.68 684.89 Td (2023 \226 2027) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9.5 Tf 46.00 672.39 Td (SRM Institute of Science and Technology, Tiruchirappalli, Tamil Nadu) Tj ET
+BT 0.36 0.38 0.42 rg /F2 9 Tf 46.00 643.99 Td (PROJECTS) Tj ET
+0.75 0.75 0.75 RG 0.6 w 46 638.99 m 549.28 638.99 l S
+BT 0.09 0.10 0.12 rg /F2 10 Tf 46.00 625.99 Td (Code Clash) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10 Tf 479.23 625.99 Td (Jun \226 Aug 2026) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9 Tf 101.01 625.99 Td (  \267  Next.js, TypeScript, Supabase, PostgreSQL, React) Tj ET
+0.36 0.38 0.42 rg 48.00 615.84 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 612.99 Td (Real-time 1v1 coding duels. Two players are matched by Elo rating, race to pass the same hidden tests, and the) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 601.49 Td (winner takes rating from the loser.) Tj ET
+0.36 0.38 0.42 rg 48.00 592.84 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 589.99 Td (Matchmaking is one atomic Postgres function using FOR UPDATE SKIP LOCKED, with no separate queue service.) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 578.49 Td (The search opens at \261200 rating and widens by 100 every 10 seconds up to \261600, so a quiet queue still finds a) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 566.99 Td (match.) Tj ET
+BT 0.09 0.10 0.12 rg /F2 10 Tf 46.00 551.49 Td (JobScheduler) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10 Tf 511.48 551.49 Td (Jul 2026) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9 Tf 112.13 551.49 Td (  \267  Node.js, Express, PostgreSQL, Socket.IO, Next.js) Tj ET
+0.36 0.38 0.42 rg 48.00 541.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 538.49 Td (A job queue that runs on Postgres alone: distributed workers, job dependencies, rate limits, retries and a dead-letter) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 526.99 Td (queue, with a live dashboard.) Tj ET
+0.36 0.38 0.42 rg 48.00 518.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 515.49 Td (Workers claim jobs with SELECT \205 FOR UPDATE SKIP LOCKED, so any number of them can poll at the same) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 503.99 Td (moment without two taking the same job.) Tj ET
+BT 0.36 0.38 0.42 rg /F1 8.5 Tf 56.00 492.49 Td (jobshedulerproject.vercel.app) Tj ET
+BT 0.09 0.10 0.12 rg /F2 10 Tf 46.00 476.49 Td (DevLeap AI) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10 Tf 476.46 476.49 Td (May \226 Aug 2026) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9 Tf 100.46 476.49 Td (  \267  Next.js, FastAPI, Python, PostgreSQL, LLM APIs) Tj ET
+0.36 0.38 0.42 rg 48.00 466.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 463.49 Td (Reads a developer's GitHub repositories and builds a profile where every skill points to the file it came from, then) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 451.99 Td (drafts job pitches you approve before anything is sent.) Tj ET
+0.36 0.38 0.42 rg 48.00 443.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 440.49 Td (The profiler clones a public repo, or a whole GitHub profile, and sends the source to an LLM to extract skills, Mermaid) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 428.99 Td (architecture diagrams and a plain-language summary, each tied to the file it came from.) Tj ET
+BT 0.36 0.38 0.42 rg /F1 8.5 Tf 56.00 417.49 Td (dev-leap-ai.vercel.app) Tj ET
+BT 0.36 0.38 0.42 rg /F1 8.5 Tf 139.61 417.49 Td (  \267  ) Tj ET
+BT 0.36 0.38 0.42 rg /F1 8.5 Tf 151.43 417.49 Td (github.com/ZeonArc/DevLeap-AI) Tj ET
+BT 0.09 0.10 0.12 rg /F2 10 Tf 46.00 401.49 Td (DevGuardian) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10 Tf 507.04 401.49 Td (Mar 2026) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9 Tf 108.24 401.49 Td (  \267  n8n, LLM APIs, Node.js, Express, Supabase) Tj ET
+0.36 0.38 0.42 rg 48.00 391.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 388.49 Td (Watches a GitLab project. Each push, merge request and pipeline run goes through an n8n workflow that uses) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 376.99 Td (Gemini to flag leaked secrets, risky dependencies and failed CI, then opens a merge request with the report.) Tj ET
+0.36 0.38 0.42 rg 48.00 368.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 365.49 Td (A GitLab webhook triggers an n8n workflow that normalises the event and routes it: pushes, merge requests and) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 353.99 Td (pipeline runs each take their own branch.) Tj ET
+BT 0.36 0.38 0.42 rg /F1 8.5 Tf 56.00 342.49 Td (github.com/ZeonArc/DevGuard) Tj ET
+BT 0.09 0.10 0.12 rg /F2 10 Tf 46.00 326.49 Td (DocuGithub) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10 Tf 508.14 326.49 Td (Jan 2026) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9 Tf 103.22 326.49 Td (  \267  n8n, LLM APIs, React, TypeScript, Supabase) Tj ET
+0.36 0.38 0.42 rg 48.00 316.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 313.49 Td (Point it at a GitHub repository and it writes the documentation. n8n workflows analyse the code with Gemini, you) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 301.99 Td (refine the draft in a chat, and it pushes the result back to the repo.) Tj ET
+0.36 0.38 0.42 rg 48.00 293.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 290.49 Td (The pipeline is five n8n workflows: initialise, analyse, generate, chat and push. The React app calls them through) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 278.99 Td (HMAC-signed webhooks.) Tj ET
+BT 0.36 0.38 0.42 rg /F1 8.5 Tf 56.00 267.49 Td (docugithub.netlify.app) Tj ET
+BT 0.09 0.10 0.12 rg /F2 10 Tf 46.00 251.49 Td (Nebula) Tj ET
+BT 0.36 0.38 0.42 rg /F1 10 Tf 506.47 251.49 Td (Sep 2026) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9 Tf 79.34 251.49 Td (  \267  Electron, React, TypeScript, Node.js, Express) Tj ET
+0.36 0.38 0.42 rg 48.00 241.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 238.49 Td (A desktop chat app with its own server inside. The chat gateway starts on localhost when the app opens, people on) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 226.99 Td (the same network can join, and voice runs peer-to-peer over WebRTC.) Tj ET
+0.36 0.38 0.42 rg 48.00 218.34 2.2 2.2 re f
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 215.49 Td (An Express and Socket.IO gateway runs inside the Electron process on 127.0.0.1 and keeps its data in a local folder.) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 56.00 203.99 Td (Other clients on the LAN can point at the host machine and join the same servers.) Tj ET
+BT 0.36 0.38 0.42 rg /F2 9 Tf 46.00 176.49 Td (SKILLS) Tj ET
+0.75 0.75 0.75 RG 0.6 w 46 171.49 m 549.28 171.49 l S
+BT 0.09 0.10 0.12 rg /F2 9.5 Tf 46.00 158.49 Td (Languages: ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 101.95 158.49 Td (TypeScript, JavaScript, Python, SQL, Java, C++) Tj ET
+BT 0.09 0.10 0.12 rg /F2 9.5 Tf 46.00 146.69 Td (Interface: ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 91.40 146.69 Td (React, Next.js, Tailwind CSS, Electron) Tj ET
+BT 0.09 0.10 0.12 rg /F2 9.5 Tf 46.00 134.89 Td (Services: ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 90.89 134.89 Td (Node.js, Express, FastAPI, Socket.IO, WebRTC) Tj ET
+BT 0.09 0.10 0.12 rg /F2 9.5 Tf 46.00 123.09 Td (Data: ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 72.39 123.09 Td (PostgreSQL, Supabase, Prisma) Tj ET
+BT 0.09 0.10 0.12 rg /F2 9.5 Tf 46.00 111.29 Td (AI & automation: ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 124.64 111.29 Td (LLM APIs, n8n) Tj ET
+BT 0.09 0.10 0.12 rg /F2 9.5 Tf 46.00 99.49 Td (Infra & tooling: ) Tj ET
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 116.20 99.49 Td (Git & GitHub, Docker, Vercel, Render, Jest, pytest, Stripe, Clerk / Auth0) Tj ET
+BT 0.36 0.38 0.42 rg /F2 9 Tf 46.00 71.69 Td (CERTIFICATIONS) Tj ET
+0.75 0.75 0.75 RG 0.6 w 46 66.69 m 549.28 66.69 l S
+BT 0.09 0.10 0.12 rg /F1 9.5 Tf 46.00 53.69 Td (Product Management Simulation, Electronic Arts) Tj ET
+BT 0.36 0.38 0.42 rg /F1 9.5 Tf 510.20 53.69 Td (Jan 2026) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [46.00 763.39 176.52 774.89] /Border [0 0 0] /A << /S /URI /URI (mailto:harishvofficialwork@gmail.com) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [189.73 763.39 274.73 774.89] /Border [0 0 0] /A << /S /URI /URI (https://github.com/ZeonArc) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [287.94 763.39 399.33 774.89] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/harishvdev) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [56.00 489.99 167.02 500.49] /Border [0 0 0] /A << /S /URI /URI (https://jobshedulerproject.vercel.app) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [56.00 414.99 139.61 425.49] /Border [0 0 0] /A << /S /URI /URI (https://dev-leap-ai.vercel.app) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [151.43 414.99 274.73 425.49] /Border [0 0 0] /A << /S /URI /URI (https://github.com/ZeonArc/DevLeap-AI) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [56.00 339.99 173.16 350.49] /Border [0 0 0] /A << /S /URI /URI (https://github.com/ZeonArc/DevGuard) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [56.00 264.99 138.69 275.49] /Border [0 0 0] /A << /S /URI /URI (https://docugithub.netlify.app) >> >>
+endobj
+15 0 obj
+<< /Title (Harish V - R\351sum\351) /Author (Harish V) >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000320 00000 n 
+0000000417 00000 n 
+0000000519 00000 n 
+0000009544 00000 n 
+0000009705 00000 n 
+0000009857 00000 n 
+0000010021 00000 n 
+0000010184 00000 n 
+0000010340 00000 n 
+0000010504 00000 n 
+0000010665 00000 n 
+0000010821 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R /Info 15 0 R >>
+startxref
+10895
+%%EOF

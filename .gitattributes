@@ -1,0 +1,11 @@
+# Normalise text to LF in the repo and working copy.
+* text=auto eol=lf
+
+# Binary assets: never touch line endings. resume.pdf is mostly plain ASCII,
+# so without this git would treat it as text and break its byte offsets.
+*.pdf binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.ico binary
+*.woff2 binary

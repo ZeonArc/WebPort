@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .l { stroke: #e8e6e0; }
+    @media (prefers-color-scheme: light) { .l { stroke: #161a20; } }
+  </style>
+  <rect class="l" x="4" y="5" width="11" height="9" rx="1.5" fill="none" stroke-width="2.4"/>
+  <path class="l" d="M15 9.5h7.5V18" fill="none" stroke-width="2.4"/>
+  <rect x="17" y="18" width="11" height="9" rx="1.5" fill="#f2c14e"/>
+</svg>
